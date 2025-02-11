@@ -1,0 +1,26 @@
+.container {
+	text-align: center;
+	background-color: #568259;
+	color: #F1FFFA;
+	border-radius: 25px;
+	font-family: courier;
+}
+body {
+	background-image: url(https://images6.alphacoders.com/117/1177227.jpg);
+	background-size: 1700px;
+}
+button {
+	width: 100px;
+}
+.footer h4 {
+	text-align: center;
+	color: #F1FFFA;
+}
+.container-fluid {
+	text-align: center;
+	background-color: #568259;
+	color: #F1FFFA;
+}
+hr {
+	background-color: #F1FFFA;
+}
